@@ -1,8 +1,8 @@
 # scrcpy-wireless-tutorial
- A document and simple script to connect to your Android device via scrcpy wirelessly.
+ A document and simple scripts to connect to your Android device via scrcpy wirelessly.
 
-## If you don't use Windows...
-This guide will focus on Windows, but you can find information for setup for other OS's here:
+### If you don't use Windows...
+This guide will focus on Windows, but you can find information for other OS's here:
 * https://github.com/Genymobile/scrcpy
 * https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly/
 
