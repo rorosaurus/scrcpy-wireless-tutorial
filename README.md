@@ -9,7 +9,7 @@ This guide will focus on Windows, but you can find the information for setup for
 2. Download the latest version, prebuilt for Windows: https://github.com/Genymobile/scrcpy#windows. Extract the folder.
 3. Double click ````scrcpy.exe````. A cmd prompt window will open, then your phone screen should appear. Confirm you can operate your phone at this stage.
 
-If you can't see your device screen, you might need to unlock the device at first. In the future, you can unlock your device with a right click, I believe.
+If you can't see your device screen, you might need to unlock the device at first. If your screen locks while you're connected, you can unlock your device with a right click, I believe.
 
 Everything working? Great!
 
