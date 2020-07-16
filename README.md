@@ -18,7 +18,7 @@ Everything working? Great!
 
 # Alright, now let's do it wirelessly
 1. Download this repository (Green ````Code```` button -> Download ZIP), extract, and copy ````scrcpy-wireless-setup.bat```` and ````scrcpy-wireless-connect.bat````  to the extracted scrcpy folder from earlier.
-2. Double click ````scrcpy-wireless-setup.bat```` and follow the instructions. Now your device can connect to adb wirelessly.
+2. Double click ````scrcpy-wireless-setup.bat```` and follow the instructions. Now your device can connect to adb wirelessly. Unplug your device from your PC.
 3. Double click ````scrcpy-wireless-connect.bat```` and follow the instructions. You can find your device's IP address from Settings -> About. Make sure your device is on the same network as your Windows computer.
 4. Profit!
 
