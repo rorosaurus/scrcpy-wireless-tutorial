@@ -17,5 +17,5 @@ echo.
 if [%lower_quality%]==[] set /P lower_quality="Lower bitrate and resolution for clearer/faster response? [Y/N]"
 
 echo.
-if /I "%lower_quality%" EQU "Y" scrcpy --bit-rate 2M --max-size 800
+if /I "%lower_quality%" EQU "Y" scrcpy --video-bit-rate 2M --max-size 800
 if /I "%lower_quality%" EQU "N" scrcpy
